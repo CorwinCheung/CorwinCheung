@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corwin Cheung
-- Check out my [linkedin]([url](https://www.linkedin.com/in/corwincubes/))
-- Or my [Instagram]([url](https://www.instagram.com/corwincheung_/))
+- Check out my [linkedin]([url](https://www.linkedin.com/in/corwincubes/)) https://www.linkedin.com/in/corwincubes/
+- Or my [Instagram]([url](https://www.instagram.com/corwincheung_/)) https://www.instagram.com/corwincheung_/
 
 <!---
 CorwinCheung/CorwinCheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
