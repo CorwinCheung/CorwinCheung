@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Corwin Cheung
+- 👋 Hi, I’m Corwin
 - Check out my [LinkedIn]([url](https://www.linkedin.com/in/corwincubes/)) https://www.linkedin.com/in/corwincubes/
 - Or my [Instagram]([url](https://www.instagram.com/corwincheung_/)) https://www.instagram.com/corwincheung_/
 
